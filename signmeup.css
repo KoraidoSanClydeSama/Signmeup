@@ -1,0 +1,27 @@
+body{
+background-color: 6D9886;
+width: 30%;
+height: 50%;
+length: 10%;
+}
+
+table{
+background-color:F2E7D5;
+border-color:red;
+}
+
+tr{
+color:black;
+}
+
+input:hover{
+color:blue;
+}
+
+h1{
+background-color:white;
+}
+
+h1:hover{
+color:gray;
+}
